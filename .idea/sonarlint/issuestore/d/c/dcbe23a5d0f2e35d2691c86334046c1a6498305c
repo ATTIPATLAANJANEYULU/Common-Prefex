@@ -1,0 +1,16 @@
+
+
+java:S1319:"mThe type of the "al" object should be an interface such as "List" rather than the implementation "ArrayList".(»–™úÿÿÿÿ8¢—‚´ª.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¼†îï8ô¢…´ª.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÀãäşÿÿÿÿ8æ¸™›ª.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Â œ8÷„´ª.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(áĞİî8±Ã“µª.
+v
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï‡‹“8Ú¯”´ª.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(º ³8„ñ ´ª.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›‰ñùÿÿÿÿ8¢—‚´ª.
+X	java:S125/"<This block of commented-out lines of code should be removed.(Ô‚‹è8¢—‚´ª.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áĞİî8÷„´ª.
+z
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Employee>'(Úß”8¢—‚´ª.

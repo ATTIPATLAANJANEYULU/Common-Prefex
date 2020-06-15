@@ -1,0 +1,14 @@
+
+B
+java:S1481"'Remove this unused "sn" local variable.(º³µşÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "sn".(º³µşÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¸ëõÏÿÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ìë×Â
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şĞ»øÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+o
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.( —àÕ
